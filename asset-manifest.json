@@ -1,13 +1,17 @@
 {
   "files": {
     "main.css": "/magical-mixers/static/css/main.37b584f1.css",
-    "main.js": "/magical-mixers/static/js/main.bf0f9bd3.js",
+    "main.js": "/magical-mixers/static/js/main.efa0d873.js",
+    "static/media/Water.svg": "/magical-mixers/static/media/Water.c8379c21647df1f4502982a4e8a887d7.svg",
+    "static/media/Stirred.svg": "/magical-mixers/static/media/Stirred.21ab995f846c312884750d25022ddfb6.svg",
+    "static/media/Shaken.svg": "/magical-mixers/static/media/Shaken.16d5bb2a8f8c9fd4601bb38501537144.svg",
+    "static/media/Neat.svg": "/magical-mixers/static/media/Neat.4210c649962fa5c2b983177d7b92bcb0.svg",
     "index.html": "/magical-mixers/index.html",
     "main.37b584f1.css.map": "/magical-mixers/static/css/main.37b584f1.css.map",
-    "main.bf0f9bd3.js.map": "/magical-mixers/static/js/main.bf0f9bd3.js.map"
+    "main.efa0d873.js.map": "/magical-mixers/static/js/main.efa0d873.js.map"
   },
   "entrypoints": [
     "static/css/main.37b584f1.css",
-    "static/js/main.bf0f9bd3.js"
+    "static/js/main.efa0d873.js"
   ]
 }
