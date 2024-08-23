@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/magical-mixers/static/css/main.37b584f1.css",
-    "main.js": "/magical-mixers/static/js/main.3179a100.js",
+    "main.js": "/magical-mixers/static/js/main.bf0f9bd3.js",
     "index.html": "/magical-mixers/index.html",
     "main.37b584f1.css.map": "/magical-mixers/static/css/main.37b584f1.css.map",
-    "main.3179a100.js.map": "/magical-mixers/static/js/main.3179a100.js.map"
+    "main.bf0f9bd3.js.map": "/magical-mixers/static/js/main.bf0f9bd3.js.map"
   },
   "entrypoints": [
     "static/css/main.37b584f1.css",
-    "static/js/main.3179a100.js"
+    "static/js/main.bf0f9bd3.js"
   ]
 }
