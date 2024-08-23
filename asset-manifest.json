@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magical-mixers/static/css/main.37b584f1.css",
+    "main.js": "/magical-mixers/static/js/main.ef34b6a7.js",
+    "index.html": "/magical-mixers/index.html",
+    "main.37b584f1.css.map": "/magical-mixers/static/css/main.37b584f1.css.map",
+    "main.ef34b6a7.js.map": "/magical-mixers/static/js/main.ef34b6a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b584f1.css",
+    "static/js/main.ef34b6a7.js"
+  ]
+}
